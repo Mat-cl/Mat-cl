@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mat-cl
 - 👀 I’m interested in algo trading, crypto mining and software in general
-- 🌱 I’m currently learning MQL5
+- 🌱 I’m currently learning MQL5 / Pinescript 5
 - 💞️ I’m looking to collaborate on everything linked to algo trading and crypto mining
 - 📫 How to reach me ...
 
